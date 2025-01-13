@@ -134,12 +134,13 @@ padding: 0px;
    margin-top: 0%;
 }
 .sec-1 {
-        position: static;
+        /* position: static;
         width: 1280px;
         height: 402px;
         background-color: rgb(255, 255, 255);
-        margin-bottom: 20px;
-
+        margin-bottom: 20px; */
+        line-height: 15px;
+        text-indent: 5px;
 }
 .title3 {
         display: flex;
@@ -160,6 +161,8 @@ padding: 0px;
 }
 .donet-master {
         display: flex;
+        justify-content: space-around;
+        text-align: center;
 }
 .donet {
         box-sizing: border-box;
@@ -167,4 +170,20 @@ padding: 0px;
         background-color: #75757537;
         font-size: 40px;
         padding: 20px;
+}
+.sec-2 {
+       text-align: center; 
+}
+.type {
+        text-s
+}
+.donet3 {
+        background-color: #C6E4D6;
+}
+.type1 {
+        width: 1032px;
+        height: 64px;
+        text-align: center;
+
+
 }
