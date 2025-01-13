@@ -158,3 +158,13 @@ padding: 0px;
 .sec-2 {
         margin-top: 20px;
 }
+.donet-master {
+        display: flex;
+}
+.donet {
+        box-sizing: border-box;
+        border: 1px solid cyan;
+        background-color: #75757537;
+        font-size: 40px;
+        padding: 20px;
+}
